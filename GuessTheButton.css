@@ -1,0 +1,19 @@
+#firstDiv{
+    background-color:yellow ;
+    color: blueviolet;
+    text-align: center;
+   
+
+}
+
+#firstOne{
+    text-align: center;
+}
+
+#shareText{
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    font-size: 100px;
+}
